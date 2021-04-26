@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/yoon1/learn-movie_app_2021/static/css/main.30ea9135.chunk.css",
-    "main.js": "/yoon1/learn-movie_app_2021/static/js/main.eb6b0a30.chunk.js",
-    "main.js.map": "/yoon1/learn-movie_app_2021/static/js/main.eb6b0a30.chunk.js.map",
-    "runtime-main.js": "/yoon1/learn-movie_app_2021/static/js/runtime-main.02236916.js",
-    "runtime-main.js.map": "/yoon1/learn-movie_app_2021/static/js/runtime-main.02236916.js.map",
-    "static/js/2.37f9990d.chunk.js": "/yoon1/learn-movie_app_2021/static/js/2.37f9990d.chunk.js",
-    "static/js/2.37f9990d.chunk.js.map": "/yoon1/learn-movie_app_2021/static/js/2.37f9990d.chunk.js.map",
-    "index.html": "/yoon1/learn-movie_app_2021/index.html",
-    "precache-manifest.10b689a30269de50fd8f79dcf9840e95.js": "/yoon1/learn-movie_app_2021/precache-manifest.10b689a30269de50fd8f79dcf9840e95.js",
-    "service-worker.js": "/yoon1/learn-movie_app_2021/service-worker.js",
-    "static/css/main.30ea9135.chunk.css.map": "/yoon1/learn-movie_app_2021/static/css/main.30ea9135.chunk.css.map",
-    "static/js/2.37f9990d.chunk.js.LICENSE.txt": "/yoon1/learn-movie_app_2021/static/js/2.37f9990d.chunk.js.LICENSE.txt"
+    "main.css": "/learn-movie_app_2021/static/css/main.30ea9135.chunk.css",
+    "main.js": "/learn-movie_app_2021/static/js/main.eb6b0a30.chunk.js",
+    "main.js.map": "/learn-movie_app_2021/static/js/main.eb6b0a30.chunk.js.map",
+    "runtime-main.js": "/learn-movie_app_2021/static/js/runtime-main.18c7b9f1.js",
+    "runtime-main.js.map": "/learn-movie_app_2021/static/js/runtime-main.18c7b9f1.js.map",
+    "static/js/2.37f9990d.chunk.js": "/learn-movie_app_2021/static/js/2.37f9990d.chunk.js",
+    "static/js/2.37f9990d.chunk.js.map": "/learn-movie_app_2021/static/js/2.37f9990d.chunk.js.map",
+    "index.html": "/learn-movie_app_2021/index.html",
+    "precache-manifest.4268ce3fa7175dcc535d8c743536001a.js": "/learn-movie_app_2021/precache-manifest.4268ce3fa7175dcc535d8c743536001a.js",
+    "service-worker.js": "/learn-movie_app_2021/service-worker.js",
+    "static/css/main.30ea9135.chunk.css.map": "/learn-movie_app_2021/static/css/main.30ea9135.chunk.css.map",
+    "static/js/2.37f9990d.chunk.js.LICENSE.txt": "/learn-movie_app_2021/static/js/2.37f9990d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02236916.js",
+    "static/js/runtime-main.18c7b9f1.js",
     "static/js/2.37f9990d.chunk.js",
     "static/css/main.30ea9135.chunk.css",
     "static/js/main.eb6b0a30.chunk.js"
